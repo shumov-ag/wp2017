@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX4
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    Jan  2 22:08:47 2018    C:/Forensic/forensic/my/vivado/sata_repeater_gen1/sata_repeater_gen1.runs/impl_1/top.bit
